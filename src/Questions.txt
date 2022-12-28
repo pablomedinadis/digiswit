@@ -1,15 +1,13 @@
 For this example (Java): I´ll include JUNIT tests to guarantee the good quality of the code i deliver
 
 API are mechanism that allows two software components to communicate with each other using different kind of protocols.
-For example TRAVEL API contains data of all the flights around the world. The Skyscanner app talk to this system to provide travel data 
-for flights so you dont have to visit multiple sites to check each flight.
+For example TRAVEL API contains data of all the flights around the world. The Skyscanner app talk to this system to provide travel data for flights so you dont have to visit multiple sites to check each flight.
 
 I´ll summarize DEVOPS in this three words: Plan, Build and Operate (Your projects).
 
-I´ll prioritize the tasks taking into account the risk of each one and how long does it take to develop it. Also, decide
-which tasks are most important.
+I´ll prioritize the tasks taking into account the risk of each one and how long does it take to develop it. Also, decide which tasks are most important.
 
-My ideal manager is patient because every employee has their own learning curve, reliable and who cares about the opinions of the team.
+My ideal manager is someone patient (every employee has their own learning curve), reliable and who cares about the opinions of the team.
 Finally, I want to work for someone who provides me the capability to make decisions and who have trust in my work.
 
 
